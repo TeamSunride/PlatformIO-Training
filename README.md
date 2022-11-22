@@ -15,7 +15,7 @@ board = teensy41
 
 ## Installing necessary libraries
 
-    pio pkg install -l https://github.com/TeamSunride/Arduino-LSM6DSO32#libdeps_test
+    pio pkg install -l https://github.com/TeamSunride/Arduino-LSM6DSO32
 
 ## Create `src/main.cpp` file
 
